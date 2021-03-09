@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="hint1">Type first num here</string>
+    <string name="hint2">Type second num here</string>
+    <string name="resultTxt">Result</string>
+    <string name="calcBtn">Calculate</string>
+    <string-array name="operators">
+        <item>*</item>
+        <item>/</item>
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+</resources>

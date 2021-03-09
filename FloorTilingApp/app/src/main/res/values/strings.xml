@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Floor Tiling App</string>
+    <string name="txtTitle">Floor tiling</string>
+    <string name="txtTileSize">Please select the size of your tiles</string>
+    <string name="txtWidth">Enter Room Width</string>
+    <string name="txtLength">Enter Room Length</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="textview">TextView</string>
+    <string name="txtDescription">Please enter the width and length of the room in feet.</string>
+</resources>

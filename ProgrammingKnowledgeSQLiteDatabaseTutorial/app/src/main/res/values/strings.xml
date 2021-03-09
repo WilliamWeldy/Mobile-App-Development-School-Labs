@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Programming Knowledge SQLite Database Tutorial</string>
+    <string name="tcol_1">Id</string>
+    <string name="tcol_2">Name</string>
+    <string name="tcol_3">Surname</string>
+    <string name="tcol_4">Marks</string>
+    <string name="btnAddData">Add Data</string>
+    <string name="btnViewData">View All</string>
+    <string name="btnUpdateData">Update</string>
+    <string name="btnDeleteData">Delete</string>
+</resources>

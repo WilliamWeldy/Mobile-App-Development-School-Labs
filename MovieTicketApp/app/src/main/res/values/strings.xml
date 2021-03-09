@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieTicketApp</string>
+    <string name="title">Movie Tickets</string>
+    <string name="purchaseMenu">Purchase Ticket</string>
+    <string name="seatMenu">Select Seat</string>
+    <string name="ticketMenu">Display Ticket</string>
+    <string name="websiteLinkTxt">Go to our website</string>
+    <string name="displayTicketTxt">These are the number of tickets you have purchased</string>
+    <string name="seatConfirmation">You are now confirmed with row # and seats # # #. Enjoy the show!!</string>
+    <string name="txtTicketQuery">Please enter in how many tickets you want to purchase: </string>
+    <string name="txtSeatQuery">Please enter in how many seats you want: </string>
+    <string name="txtRowQuery">Please enter what row you want to be seated in: </string>
+</resources>
